@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.0.5</Version>
+    <Description>Small library to interact with etherscan API. I use converters from Nethereum library</Description>
+    <PackageTags>etherscan etherscan-api api-wrapper</PackageTags>
+    <Copyright>ridicoulous</Copyright>
+    <PackageProjectUrl>https://github.com/ridicoulous/EtherscanApi.Net</PackageProjectUrl>
+    <AssemblyVersion>0.0.5.0</AssemblyVersion>
+    <PackageReleaseNotes>add internal txs</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+</Project>

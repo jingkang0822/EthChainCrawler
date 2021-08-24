@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtherscanApi.Net", "EtherscanApi.Net\EtherscanApi.Net.csproj", "{3712706A-485A-4B23-81EB-EC6E373BFB1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtherScanApi.Net.Tests", "EtherScanApi.Net.Tests\EtherScanApi.Net.Tests.csproj", "{067E73FB-8AD7-4BD7-B917-7D808036D655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtherScanServiceNetFrameWork", "EtherScanServiceNetFrameWork\EtherScanServiceNetFrameWork.csproj", "{635FF3A1-A622-478A-9E89-BA5DCA9A003C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3712706A-485A-4B23-81EB-EC6E373BFB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3712706A-485A-4B23-81EB-EC6E373BFB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3712706A-485A-4B23-81EB-EC6E373BFB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3712706A-485A-4B23-81EB-EC6E373BFB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067E73FB-8AD7-4BD7-B917-7D808036D655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067E73FB-8AD7-4BD7-B917-7D808036D655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067E73FB-8AD7-4BD7-B917-7D808036D655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067E73FB-8AD7-4BD7-B917-7D808036D655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635FF3A1-A622-478A-9E89-BA5DCA9A003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635FF3A1-A622-478A-9E89-BA5DCA9A003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635FF3A1-A622-478A-9E89-BA5DCA9A003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635FF3A1-A622-478A-9E89-BA5DCA9A003C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86DD4AE-E12C-4F97-A464-8949F1A5DA08}
+	EndGlobalSection
+EndGlobal
